@@ -1,0 +1,15 @@
+DataLoader created
+Training started
+Epoch 1/10, Loss: 0.6402
+Epoch 2/10, Loss: 0.5357
+Epoch 3/10, Loss: 0.4574
+Epoch 4/10, Loss: 0.3987
+Epoch 5/10, Loss: 0.3584
+Epoch 6/10, Loss: 0.3325
+Epoch 7/10, Loss: 0.3163
+Epoch 8/10, Loss: 0.3035
+Epoch 9/10, Loss: 0.2944
+Epoch 10/10, Loss: 0.2881
+Training finished
+Testing started
+Test Accuracy: 85.50%

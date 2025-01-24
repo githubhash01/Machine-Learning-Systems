@@ -1,0 +1,20 @@
+
+ArgumentError: activate does not accept more than one argument:
+['--pty', 'bash']
+
+
+DataLoader created
+Training started
+Epoch 1/10, Loss: 0.6610
+Epoch 2/10, Loss: 0.5483
+Epoch 3/10, Loss: 0.4671
+Epoch 4/10, Loss: 0.4063
+Epoch 5/10, Loss: 0.3632
+Epoch 6/10, Loss: 0.3358
+Epoch 7/10, Loss: 0.3174
+Epoch 8/10, Loss: 0.3049
+Epoch 9/10, Loss: 0.2951
+Epoch 10/10, Loss: 0.2876
+Training finished
+Testing started
+Test Accuracy: 86.00%
